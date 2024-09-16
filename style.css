@@ -1,0 +1,49 @@
+.imageContainer{
+ 
+    background-color:rgb(236, 252, 228);
+    padding: 0;
+    margin: 0;
+}
+
+img{
+   
+    box-shadow: 8px 8px rgb(174, 255, 139);
+}
+h2{
+    text-align: center;
+}
+
+.section1{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.section2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+}
+button{
+    margin-top: 5vh;
+    width: 10%;
+    height: 5%;
+    background-color:rgb(110, 141, 97) ;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+#btn2{
+    
+    width: 10vw;
+    height: 5vh;
+    border-radius: 2vh;
+    border: 1px solid white;
+}
+input{
+    margin-top: 6vh;
+    width: 20%;
+    height: 4vh;
+}
